@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/AIDOO K. ENOCH/Documents/GitHub/RGT/MLOPS Project/model_tracking/testing_mlflow_artifacts
+creation_time: 1707076988404
+experiment_id: '861361142955643115'
+last_update_time: 1707076988404
+lifecycle_stage: active
+name: stock_pred_exp

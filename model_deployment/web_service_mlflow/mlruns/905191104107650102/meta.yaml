@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/AIDOO%20K.%20ENOCH/Documents/GitHub/RGT/MLOPS%20Project/model_deployment/web_service_mlflow/mlruns/905191104107650102
+creation_time: 1707853143469
+experiment_id: '905191104107650102'
+last_update_time: 1707853143469
+lifecycle_stage: active
+name: stock_pred_exp

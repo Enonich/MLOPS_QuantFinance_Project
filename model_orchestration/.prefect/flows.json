@@ -1,0 +1,4 @@
+{
+  "main-flow": "orchestrate.py:main_flow",
+  "main-flow-spy": "orchestrate_spy.py:main_flow_spy"
+}
